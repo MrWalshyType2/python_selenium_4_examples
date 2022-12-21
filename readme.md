@@ -1,0 +1,1 @@
+Run `pip install -Iv selenium==4.7.2` to install Selenium 4, ready for use with these examples.
